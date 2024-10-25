@@ -1,0 +1,16 @@
+{
+  "credentials": {
+    "username": "loganathan.m@hudini.io",
+    "password": "Testing@123",
+    "pagename": "About Leela",
+    "slide1": "The Leela Palace Bangalore",
+    "slide2": "The Leela Palace Chennai",
+    "slide3": "The Leela Palace Jaipur",
+    "slide4": "The Leela Palace New Delhi",
+    "hotelurl": "https://www.theleela.com/the-leela-palace-bengaluru",
+    "buttonname": "Hotel Amenities",
+    "buttontitle": "Restaurant",
+    "buttontitle1": "Bar",
+    "buttontitle2": "Spa"
+  }
+}
