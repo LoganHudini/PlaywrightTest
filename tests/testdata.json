@@ -1,8 +1,11 @@
 {
   "credentials": {
+    "url":"https://cms.hudinielevate-stage.io/login",
     "username": "loganathan.m@hudini.io",
     "password": "Testing@123",
     "pagename": "About Leela",
+    "toastmsg":"Page created successfully",
+    "H2title":"Hotels",
     "slide1": "The Leela Palace Bangalore",
     "slide2": "The Leela Palace Chennai",
     "slide3": "The Leela Palace Jaipur",
@@ -11,6 +14,7 @@
     "buttonname": "Hotel Amenities",
     "buttontitle": "Restaurant",
     "buttontitle1": "Bar",
-    "buttontitle2": "Spa"
+    "buttontitle2": "Spa",
+    "saveAsDraftTostMessage":"Changes saved"
   }
 }
